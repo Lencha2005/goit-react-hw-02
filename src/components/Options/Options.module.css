@@ -1,0 +1,19 @@
+.wrap {
+    display: flex;
+    gap: 10px;
+}
+
+.btn {
+    background-color: rgb(184, 182, 182);
+    border: 1px solid black;
+    color: black;
+    outline: transparent;
+}
+
+.btn:hover
+.btn:focus {
+    background-color: rgb(126, 124, 120);
+    color: #fafafa;
+    outline: transparent;
+    border: none;
+}
